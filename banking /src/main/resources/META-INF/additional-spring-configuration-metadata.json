@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "banking.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.app.jwtSecret'"
+  },
+  {
+    "name": "banking.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.app.jwtExpirationMs'"
+  },
+  {
+    "name": "banking.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.app.jwtExpirationMs'"
+  },
+  {
+    "name": "banking.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.app.jwtExpirationMs'"
+  },
+  {
+    "name": "banking.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.app.jwtExpirationMs'"
+  },
+  {
+    "name": "banking.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'banking.app.jwtExpirationMs'"
+  }
+]}
